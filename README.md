@@ -2,11 +2,6 @@
 
 This project focuses on analyzing and forecasting global gold prices by integrating multiple macroeconomic indicators. We utilize a Deep Learning approach with **Long Short-Term Memory (LSTM)** networks to capture long-term temporal dependencies in financial data.
 
-## 👥 Group 5 Team
-- **Its.hazen** - Web Developer & AI Lead
-- [Member Name 1]
-- [Member Name 2]
-
 ## 📋 Project Overview
 Unlike traditional univariate models, this project implements a **Multivariate** approach. The model's predictions are influenced not just by past gold prices, but by a correlated set of economic drivers:
 * **Gold Price**: Historical daily closing prices.
